@@ -1,5 +1,5 @@
 # PROGRESS.md — Current Status & Active Tasks
-*Updated: March 31, 2026*
+*Updated: April 15, 2026*
 
 ---
 
@@ -127,12 +127,12 @@ Each H2 gets a 2-3 sentence direct answer prepended ABOVE Cheri's existing conte
 | # | Post | Status | Output file |
 |---|------|--------|-------------|
 | 1 | What Are Cannabis Edibles? | ✅ Done | post1-what-are-edibles-revised.docx |
-| 2 | Dosing Homemade Edibles | ⬜ Next | — |
-| 3 | How to Make Edibles Work Better | ⬜ | — |
-| 4 | Edibles Tolerance | ⬜ | — |
-| 5 | How NOT to Waste Money Making Edibles | ⬜ | — |
-| 6 | Edibles Dosage Calculator | ⬜ | — |
-| 7 | DIY Cannabis Cookbook | ⬜ Tier 2 | — |
-| 8 | Long Term Cannabis Benefits | ⬜ Tier 2 | — |
-| 9 | Who Can/Cannot Benefit from Topical Cannabis | ⬜ Tier 2 | — |
+| 2 | Dosing Homemade Edibles | ✅ Done | post2-dosing-homemade-edibles-revised.docx |
+| 3 | How to Make Edibles Work Better | ✅ Done | post3-how-to-make-edibles-work-better-revised.docx |
+| 4 | Edibles Tolerance | ✅ Done | post4-edibles-tolerance-revised.docx |
+| 5 | How NOT to Waste Money Making Edibles | ✅ Done | post5-waste-money-making-edibles-revised.docx |
+| 6 | Edibles Dosage Calculator | ✅ Done | post6-edibles-dosage-calculator-revised.docx |
+| 7 | DIY Cannabis Cookbook | ✅ Done | post7-diy-cannabis-cookbook-revised.docx |
+| 8 | Long Term Cannabis Benefits | ✅ Done | post8-long-term-cannabis-benefits-revised.docx |
+| 9 | Who Can/Cannot Benefit from Topical Cannabis | ✅ Done | post9-topicals-revised.docx |
 | 10–15 | Tier 3 posts | ⬜ Do last | — |

@@ -73,3 +73,4 @@ DMC ($59)              CCHC ($89 funnel)
 - Never pitch CCHC ($89/$149) directly to freebie-only subscribers — start with $5 calculators
 - Calculator owners are warm buyers — pitch DMC or CCHC directly
 - Always offer the funnel price ($89) to email subscribers, not the full price ($149)
+- In blog posts, only the $5 Dosing Calculators get a price mentioned. All other courses link to their sales pages without prices attached.

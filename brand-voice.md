@@ -51,6 +51,8 @@ State facts plainly. When something won't work, say so and move on. Don't soften
 **Short punchy sentences after longer explanatory ones.**
 Use rhythm. A long sentence followed by a short declarative one creates emphasis.
 - ✅ "...which is why edibles hit harder, take longer to kick in, and last significantly longer than smoked cannabis. They're a fundamentally different experience."
+- ✅ Fragment sentences starting with "And" for rhythmic emphasis: "And have it taste good. And have it carry a dosage that meets your needs." — deliberate fragments, not errors.
+- ✅ Enthusiastic short-sentence pivots to build energy: "But it's way more exciting than that!" — forward-leaning, not a conclusion.
 
 **Parenthetical warmth.**
 Cheri uses parenthetical asides to create intimacy.
@@ -63,6 +65,16 @@ Cheri freely admits her own struggles and imperfections. This makes her relatabl
 - ✅ "I know, that's not an easy thing to do sometimes, even for me."
 - ✅ "I learned this lesson the hard way."
 - ✅ "I didn't publish any gummy recipes for years. Why? Because even I couldn't get them to work consistently."
+
+**Named, specific examples over abstract placeholders.**
+Cheri uses examples that feel personal and specific rather than generic.
+- ✅ "How fun would it be to take Grandma Sue's apple pie recipe or Uncle Lou's BBQ sauce and turn them into edibles?"
+- ❌ "Imagine turning your favorite recipes into edibles."
+
+**Self-aware about well-worn phrases.**
+When Cheri uses a cliché, she acknowledges it rather than pretending it's original. This shows self-awareness without undermining the point.
+- ✅ "Cliché as it may sound, 'today is the first day of the rest of your life' has real wisdom in it."
+- ❌ Using the cliché straight without acknowledging it.
 
 **Always explain the WHY behind the WHAT.**
 Never just give instructions. The reader needs to understand the reasoning so they trust the advice and remember it.
