@@ -5,6 +5,7 @@
 
 ## Repo Structure
 
+Access the Repo URL here or ask to have it loaded into a browser: https://github.com/mmenigma/ClaudeAI
 ```
 ClaudeAI/
 ├── brand-voice.md          ← READ FIRST — Cheri's voice, compliance, pricing
