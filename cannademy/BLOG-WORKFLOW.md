@@ -8,7 +8,7 @@ Do the analytical work BEFORE writing. Jumping straight to writing without mappi
 
 ---
 
-## Step 1 — Pre-Write Analysis (do this first, every time)
+## Step 1 — Pre-Write Analysis (do this first, every time) IMPORTANT!
 
 Read the existing post in full and produce a written map covering:
 
@@ -32,11 +32,11 @@ Check for:
 - Correct number of points (5 is the SEO sweet spot for list-format posts; always odd numbers)
 - Does the structure match what the AEO plan specifies?
 
-Do not write the draft until the H2 structure is confirmed.
+Do not write the draft until the H2 structure is confirmed. IMPORTANT!
 
 ---
 
-## Step 3 — Write the Draft
+## Step 3 — Write the Draft - Write as a cut and paste ready word doc for the thrive page builder.
 
 ### Color coding (mandatory)
 - **BLACK** = Cheri's existing content, kept or lightly polished
