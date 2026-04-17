@@ -135,5 +135,7 @@ Each H2 gets a 2-3 sentence direct answer prepended ABOVE Cheri's existing conte
 | 7 | DIY Cannabis Cookbook | ✅ Done | post7-diy-cannabis-cookbook-revised.docx |
 | 8 | Long Term Cannabis Benefits | ✅ Done | post8-long-term-cannabis-benefits-revised.docx |
 | 9 | Who Can/Cannot Benefit from Topical Cannabis | ⬜ Next | — |
+| 10 | Online Cannabis Education vs. Cannabis Universities | ✅ Done | post10-complete.docx |
+| 11 | Cannabis Topicals Won't Get You High — And Other Myths Worth Busting | ✅ Done | Post-11-Cannabis-Topicals-Myth-Busting-Refresh.docx |
 | 10–15 | Tier 3 posts | ⬜ Do last | — |
 
