@@ -1,5 +1,9 @@
-# Cannademy.com — AEO Blog Refresh Plan
+# cannademy-aeo-refresh-plan.md — Cannademy Post Refresh Plan
 ## All 15 Posts | Answer Engine Optimization
+
+*Post-specific content and refresh instructions for Cannademy.com only.*
+*For general SEO/AEO standards that apply to all content, see seo-aeo-standards.md.*
+*For voice and tone rules, see brand-voice.md.*
 
 ---
 
@@ -94,7 +98,6 @@ Yes — any cannabis flower, concentrate, or infusion can be used in edibles. Th
 **Q: What's the difference between cannabis-infused butter and cannabis oil for edibles?**
 Both work for most recipes. Cannabutter works better in baked goods where butter is traditional (cookies, brownies). Cannabis-infused coconut oil or olive oil is more versatile for savory cooking and works well anywhere you'd use oil. The cannabinoids bind to fat in either case, so the infusion process and potency math is essentially the same.
 
-**Schema to add:** FAQ schema (Code Snippets), Article schema with dateModified
 **Conversion CTA:** Link to Cannabis Cooking for Home Cooks course + dosing calculator
 
 ---
@@ -145,8 +148,7 @@ Start by calculating the total THC in your batch using the formula above, then w
 **Q: Is there an easier way to dose homemade edibles without doing all the math manually?**
 Yes — the Cannademy Dosing Calculator App ($5) does all the calculations instantly. You enter your cannabis amount, THC percentage, and recipe details, and it tells you exactly how much infused butter or oil to use and what each serving will contain. It works for any recipe and any type of cannabis.
 
-**Schema:** FAQ schema, Article schema
-**Conversion CTA:** Dosing calculator app ($5) + Free email course sign-up + Cannabis Dosing Mastery ($39)
+**Conversion CTA:** Dosing calculator app ($5) + Free email course sign-up + Cannabis Dosing Mastery ($59)
 
 ---
 
@@ -190,7 +192,6 @@ Yes. Taking edibles alongside foods high in healthy fats — avocado, full-fat y
 **Q: Does building tolerance to smoking affect how edibles work?**
 Somewhat, but the relationship isn't direct. Edibles produce a different metabolite (11-hydroxy-THC) than inhaled cannabis, so your smoking tolerance doesn't fully transfer. Frequent edible users can build edible-specific tolerance. Taking a 2–3 day tolerance break often restores edible sensitivity significantly.
 
-**Schema:** FAQ schema, Article schema, HowTo schema (for the "5 ways" section)
 **Conversion CTA:** Cannabis Dosing Mastery + dosing calculator app
 
 ---
@@ -199,7 +200,7 @@ Somewhat, but the relationship isn't direct. Edibles produce a different metabol
 **Current title:** The 1 Thing MOST People Get Wrong About Edibles Tolerance
 **URL:** `/edibles-tolerance/`
 **Last modified:** September 2024
-**AEO Priority:** ⭐⭐⭐⭐ — Good clickbait title, but the question-phrasing in the title doesn't align with how people search. The FAQ block will do the heavy lifting for AEO here.
+**AEO Priority:** ⭐⭐⭐⭐
 
 **Recommended title:**
 > Cannabis Edibles Tolerance: Why It's Different From Smoking (And How to Reset It)
@@ -235,7 +236,6 @@ A complete cannabinoid abstinence break is the only reliable method — no flowe
 **Q: Can you microdose edibles to avoid building tolerance?**
 Yes — microdosing (typically 2.5–5mg THC) is often cited as a way to get therapeutic benefits while minimizing tolerance buildup. The theory is that lower doses may not downregulate CB1 receptors as aggressively as full doses. Many medical users prefer microdosing for exactly this reason, combining low-dose edibles with occasional higher-dose use when needed.
 
-**Schema:** FAQ schema, Article schema
 **Conversion CTA:** Cannabis Dosing Mastery (dosing consistency), dosing calculator
 
 ---
@@ -244,7 +244,7 @@ Yes — microdosing (typically 2.5–5mg THC) is often cited as a way to get the
 **Current title:** How NOT to Waste Money When Making Edibles
 **URL:** `/waste-money-making-edibles/`
 **Last modified:** September 2024
-**AEO Priority:** ⭐⭐⭐⭐ — Problem-solving posts get strong AI citation. "How to make edibles without wasting cannabis" is a genuine beginner pain point.
+**AEO Priority:** ⭐⭐⭐⭐
 
 **Recommended title:**
 > How to Make Edibles Without Wasting Cannabis (7 Money-Saving Tips)
@@ -281,7 +281,6 @@ Thorough mixing is critical. Your infused butter or oil must be completely homog
 **Q: Is it more efficient to use less cannabis and infuse a smaller amount of butter?**
 Generally yes — a higher cannabis-to-butter ratio typically leads to better extraction efficiency than a very dilute infusion. Using 1 oz of cannabis per 1 cup of butter extracts more efficiently than using the same ounce in 4 cups of butter, because the infusion saturation point affects how much THC actually binds. However, you'll need less infused butter per recipe, so calculate accordingly.
 
-**Schema:** FAQ schema, HowTo schema, Article schema
 **Conversion CTA:** Cannabis Cooking for Home Cooks (covers decarb and infusion in depth), dosing calculator
 
 ---
@@ -290,7 +289,7 @@ Generally yes — a higher cannabis-to-butter ratio typically leads to better ex
 **Current title:** 5 Reasons Why an Edibles Dosage Calculator is Important
 **URL:** `/edibles-dosage-calculator/`
 **Last modified:** March 2026
-**AEO Priority:** ⭐⭐⭐⭐ — Commercial intent post. AI engines can cite this when someone asks "what is a cannabis dosing calculator" or "how do I calculate edibles dose." Recently updated, so structure improvements have more immediate impact.
+**AEO Priority:** ⭐⭐⭐⭐
 
 **Recommended title:**
 > Cannabis Edibles Dosage Calculator: Why You Need One and How It Works
@@ -322,7 +321,6 @@ Yes — the same calculation principles apply to CBD. You enter the CBD percenta
 **Q: Does a dosage calculator work with concentrates like RSO or FECO?**
 It depends on the calculator. Basic calculators are built for flower only. The Cannademy dosing calculator handles concentrates including RSO, FECO, kief, and distillates, which have very different potencies and require different calculation methods than flower-based infusions.
 
-**Schema:** FAQ schema, Article schema with Product structured data pointing to the $5 calculator
 **Conversion CTA:** $5 dosing calculator app (primary), Cannabis Dosing Mastery (secondary)
 
 ---
@@ -335,7 +333,7 @@ It depends on the calculator. Basic calculators are built for flower only. The C
 **Current title:** DIY Cannabis Cookbook: Add weed to ANY Recipe
 **URL:** `/diy-cannabis-cookbook/`
 **Last modified:** September 2024
-**AEO Priority:** ⭐⭐⭐⭐ — "How to add cannabis to recipes" and "how to make any recipe into an edible" are strong AI-answerable questions. Good content opportunity.
+**AEO Priority:** ⭐⭐⭐⭐
 
 **Recommended title:**
 > How to Add Cannabis to Any Recipe: DIY Cannabis Cooking Guide
@@ -368,7 +366,6 @@ Technically yes, but it's not recommended for most uses. Raw cannabis must be de
 **Q: What's the simplest cannabis recipe for a beginner to start with?**
 Rice Krispie treats are the classic beginner choice — no baking required, just melt cannabutter with marshmallows and cereal. If you can melt butter, you can make them. Brownies from a boxed mix with cannabutter substituted are the next easiest step up. Both are very forgiving of imprecise timing, which baking often is not.
 
-**Schema:** FAQ schema, HowTo schema, Article schema
 **Conversion CTA:** Cannabis Cooking for Home Cooks, link to cannabischeri.com recipes
 
 ---
@@ -377,7 +374,7 @@ Rice Krispie treats are the classic beginner choice — no baking required, just
 **Current title:** Long Term Cannabis Benefits: Why You Need Cannabis NOW
 **URL:** `/long-term-cannabis-benefits/`
 **Last modified:** March 2026
-**AEO Priority:** ⭐⭐⭐ — Informational/research content. AI engines cite this type of post for health-adjacent queries, but "benefits" content gets scrutinized for claims. Keep language measured.
+**AEO Priority:** ⭐⭐⭐
 
 **Recommended title:**
 > Long-Term Cannabis Benefits: What Research Shows About Extended Use
@@ -407,7 +404,6 @@ Long-term safety depends heavily on how you consume cannabis. Smoking carries si
 **Q: Does CBD have different long-term benefits than THC?**
 CBD is being studied for anti-inflammatory, neuroprotective, and anxiety-reducing properties without the intoxicating effects of THC. THC offers stronger pain relief and sleep support but comes with the high. Many long-term users find a combination works best — higher CBD during the day and THC-forward formulations at night. The Cannademy Cannabis Cooking for Home Cooks course includes a full module on cooking with CBD.
 
-**Schema:** FAQ schema, Article schema (with medical disclaimer note)
 **Conversion CTA:** Cannabis Cooking for Home Cooks, Crash Course in Cannabis
 
 ---
@@ -416,7 +412,7 @@ CBD is being studied for anti-inflammatory, neuroprotective, and anxiety-reducin
 **Current title:** Who Can and Cannot Benefit from Topical Cannabis
 **URL:** `/who-can-and-cannot-benefit-from-topical-cannabis/`
 **Last modified:** April 2022 — most stale post on the site
-**AEO Priority:** ⭐⭐⭐ — The yes/no format in the title is naturally AEO-friendly. Needs full refresh given 3+ year staleness.
+**AEO Priority:** ⭐⭐⭐
 
 **Recommended title:**
 > Who Should (and Shouldn't) Use Cannabis Topicals? A Practical Guide
@@ -449,7 +445,6 @@ People with known sensitivity to cannabis or any carrier ingredient in the speci
 **Q: Can you make cannabis topicals at home?**
 Yes — homemade cannabis topicals are simpler to make than edibles and don't require precise dosing since they're not ingested. A basic cannabis salve requires only infused coconut oil, beeswax, and any additional essential oils you choose. Cannademy's Easy DIY Marijuana Skincare and Topicals course covers multiple topical recipes and formulations in depth.
 
-**Schema:** FAQ schema, Article schema
 **Conversion CTA:** Easy DIY Marijuana Skincare and Topicals course (primary), CCHC (secondary)
 
 ---
@@ -472,7 +467,7 @@ Yes — homemade cannabis topicals are simpler to make than edibles and don't re
 - "Cannabis university vs online courses"
 - "Where can I learn cannabis cooking online?"
 
-**FAQ block to add (3 questions sufficient):**
+**FAQ block to add:**
 
 **Q: What's the difference between a cannabis university and online cannabis classes?**
 Cannabis universities (also called cannabis colleges) typically focus on industry roles — cultivation, retail, compliance, lab work. They're designed for people entering the cannabis business professionally. Online cannabis cooking classes like Cannademy are designed for home cooks who want to medicate better at home, not enter the cannabis industry. The curriculum, cost, and time commitment are completely different.
@@ -483,16 +478,15 @@ No — cannabis cooking is a skill anyone can learn at home with the right instr
 **Q: Is online cannabis education as good as in-person classes?**
 For home cooks, online is actually better in most cases. You can pause, rewatch, and practice at your own pace in your own kitchen with your own equipment. In-person classes are great for networking, but for practical skill-building, the ability to watch a technique multiple times and practice immediately afterward makes online learning highly effective.
 
-**Schema:** FAQ schema, Article schema
 **Conversion CTA:** Cannademy course catalog, free dosing class
 
 ---
 
 ### POST 11
-**Current title:** (Unknown — check slug: stereotypes-of-potheads-cannabis-topicals)**
+**Current title:** (Unknown — check slug: stereotypes-of-potheads-cannabis-topicals)
 **URL:** `/stereotypes-of-potheads-cannabis-topicals/`
 **Last modified:** September 2024
-**AEO Priority:** ⭐⭐ — The title combination is unclear. **Recommend reviewing this post directly and considering whether to merge it with the Who Can Benefit From Topical Cannabis post (Post 9) or give it a clear standalone focus.**
+**AEO Priority:** ⭐⭐ — The title combination is unclear. Recommend reviewing this post directly and considering whether to merge it with Post 9 or give it a clear standalone focus.
 
 **If topical-focused, recommended title:**
 > Cannabis Topicals: Breaking the Myths and Who They're Really For
@@ -506,14 +500,14 @@ For home cooks, online is actually better in most cases. You can pause, rewatch,
 **Current title:** 7 Ways Professional Cannabis Chefs Can Increase Their Income
 **URL:** `/professional-cannabis-chef/`
 **Last modified:** September 2024
-**AEO Priority:** ⭐⭐ — This post targets professional chefs, not home cooks. It's off-brand for Cannademy's core audience. Consider whether to keep, redirect, or reframe it.
+**AEO Priority:** ⭐⭐ — Off-brand for Cannademy's core home-cook audience. Consider whether to keep, redirect, or reframe.
 
 **Option A — Reframe for home cooks:**
 > From Home Cook to Cannabis Chef: Can You Turn Your Edibles Hobby Into Income?
 
-**Option B — Keep for long-tail professional searches, add FAQ:**
+**Option B — Keep for long-tail professional searches:**
 
-**FAQ block (abbreviated — 3 questions):**
+**FAQ block:**
 
 **Q: How do professional cannabis chefs make money?**
 Professional cannabis chefs generate income through private chef services, catering events (where legal), teaching classes, developing recipes for cannabis brands, consulting for cannabis companies, and creating online content or courses. The cannabis culinary industry is growing rapidly as legalization expands.
@@ -521,8 +515,7 @@ Professional cannabis chefs generate income through private chef services, cater
 **Q: Do you need culinary training to become a cannabis chef?**
 Formal culinary training helps but isn't strictly required. What matters more is understanding cannabis-specific techniques — proper decarboxylation, infusion methods, dosing — combined with solid cooking fundamentals. Many successful cannabis chefs are self-taught home cooks who developed expertise through practice and study.
 
-**Schema:** FAQ schema, Article schema
-**Conversion CTA:** Cannademy courses (particularly if reframed for home-cook-to-professional path)
+**Conversion CTA:** Cannademy courses
 
 ---
 
@@ -530,12 +523,12 @@ Formal culinary training helps but isn't strictly required. What matters more is
 **Current title:** Why are Professional Chefs Going to Cannabis Cooking School?
 **URL:** `/chefs-cannabis-cooking-school/`
 **Last modified:** September 2024
-**AEO Priority:** ⭐⭐ — Similar audience mismatch as Post 12. Same consideration applies.
+**AEO Priority:** ⭐⭐
 
 **Recommended title:**
 > Why Chefs Are Learning Cannabis Cooking (And What Home Cooks Can Learn Too)
 
-**FAQ block (abbreviated):**
+**FAQ block:**
 
 **Q: Why are professional chefs interested in cannabis cooking?**
 As cannabis legalization expands, chefs see growing demand for cannabis-infused catering, private dining, and product development. Cannabis cooking also requires genuinely new techniques — dosing, decarboxylation, infusion chemistry — that aren't covered in culinary school. Chefs who learn these skills early position themselves for a growing market.
@@ -549,9 +542,9 @@ Absolutely — the techniques are the same. The main difference is scale and set
 **Current title:** Cannabis Certificates From Cannademy
 **URL:** `/cannabis-certificates-from-cannademy/`
 **Last modified:** September 2024
-**AEO Priority:** ⭐ — Primarily a promotional/credential page. Low AEO opportunity, but add basic FAQ and update for freshness.
+**AEO Priority:** ⭐ — Primarily a promotional/credential page. Low AEO opportunity; update for freshness and add basic FAQ.
 
-**FAQ block (abbreviated):**
+**FAQ block:**
 
 **Q: Does Cannademy offer cannabis certificates?**
 Yes — Cannademy issues completion certificates for each course. While these aren't industry licensing credentials, they document your training and knowledge in cannabis cooking, dosing, and related topics.
@@ -561,42 +554,5 @@ Cannademy certificates document course completion and skill development. They're
 
 ---
 
-## Implementation Checklist (Post-by-Post)
-
-For each post, work through these steps in order:
-
-**Step 1 — Byline & Date**
-- [ ] Change author to "Cheri Sicard, Cannabis Author & Educator"
-- [ ] Update Last Modified date
-- [ ] Update "Updated [Month Year]" note at top of post
-
-**Step 2 — Title & Meta**
-- [ ] Update post title in WordPress
-- [ ] Update Rank Math meta description (150–155 characters, question or benefit focused)
-
-**Step 3 — Content Structure**
-- [ ] Add answer-first paragraph after each H2
-- [ ] Convert declarative H2s to question format
-- [ ] Break up any paragraphs longer than 4 lines
-
-**Step 4 — FAQ Block**
-- [ ] Add FAQ section before Related Posts
-- [ ] Enable FAQ schema in Rank Math per-post toggle
-
-**Step 5 — Internal Links**
-- [ ] Add link to at least one Cannademy course
-- [ ] Add link to at least one related post (cannademy.com or cannabischeri.com)
-- [ ] Add link to dosing calculator where relevant
-
-**Step 6 — Schema**
-- [ ] Verify Article schema is active (dateModified included)
-- [ ] FAQ schema enabled
-- [ ] HowTo schema added where applicable (Code Snippets)
-
-**Step 7 — Publish**
-- [ ] Save, preview, publish
-- [ ] Request re-index via Google Search Console
-
----
-
-*Document prepared for Cannademy.com | AEO Blog Refresh Plan | April 2026*
+*Document prepared for Cannademy.com | AEO Post Refresh Plan | April 2026*
+*General SEO/AEO standards → seo-aeo-standards.md | Voice rules → brand-voice.md | Error history → ERRORS.md*
