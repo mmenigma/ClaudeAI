@@ -7,11 +7,11 @@
 
 Before any work begins, read the following reference files in full:
 
-1. **Brand voice:** https://github.com/mmenigma/ClaudeAI/main/brand-voice.md
-2. **SEO/AEO standards:** https://github.com/mmenigma/ClaudeAI/main/seo-aeo-standards.md
+1. **Brand voice:** https://raw.githubusercontent.com/mmenigma/ClaudeAI/main/brand-voice.md
+2. **SEO/AEO standards:** https://raw.githubusercontent.com/mmenigma/ClaudeAI/main/seo-aeo-standards.md
 
 **For Cannademy posts only — also read:**
-3. **Post-specific refresh plan:** https://github.com/mmenigma/ClaudeAI/main/cannademy/cannademy-aeo-refresh-plan.md
+3. **Post-specific refresh plan:** https://raw.githubusercontent.com/mmenigma/ClaudeAI/main/cannademy/cannademy-aeo-refresh-plan.md
    - Do NOT read the entire file. Locate the specific post being worked on by URL slug or title and read only that entry.
 
 Then confirm the following is in the conversation:
@@ -152,12 +152,20 @@ When you eat an edible, your liver converts THC into a stronger compound — whi
 
 After the draft is complete, generate image prompts. Place all prompts in Section A only.
 
+Applies to both Cannademy.com and cannabischeri.com posts.
+
 ### Model selection
 - Gemini 3.1 Pro — featured/hero images (higher quality)
 - Gemini 3.1 Flash Lite — in-post images and Pinterest pins (faster, lower cost)
 
 ### Style baseline for all prompts
-Professional cannabis food photography. Warm natural lighting. Appetizing and inviting. No text overlaid. No people. No cannabis leaves, plants, or raw flower — finished food and drink products only. No drug paraphernalia.
+Professional cannabis food photography. Warm natural lighting. Appetizing and inviting. No people. No cannabis leaves, plants, or raw flower — finished food and drink products only. No drug paraphernalia.
+
+### Pinterest pins — important notes
+- Pinterest pins are posted to Pinterest only — they are NOT embedded in the blog post
+- Pinterest performs best with text overlaid on the image — leave clean space at top or bottom for text
+- Space pin uploads out over days or weeks via CCM — do not upload all three at once
+- Each pin links back to the blog post URL
 
 ### Required output format
 
@@ -167,19 +175,22 @@ Featured Image — 16:9 landscape (Gemini 3.1 Pro)
 [Prompt — include: subject, food styling details, lighting, mood, background, aspect ratio, "no text, no people, no cannabis plants"]
 
 In-Post Image 1 — tied to [Section Name] — 4:3 (Gemini Flash Lite)
-[Prompt]
+[Prompt — "no text, no people, no cannabis plants"]
 
 In-Post Image 2 — tied to [Section Name] — 4:3 (Gemini Flash Lite)
-[Prompt]
+[Prompt — "no text, no people, no cannabis plants"]
 
 Pinterest Pin 1 — 2:3 portrait, 1000x1500px (Gemini Flash Lite)
-[Prompt]
+Image prompt: [Prompt — include: subject, food styling, lighting, "leave clean space at top or bottom for text overlay, no people, no cannabis plants"]
+Text overlay suggestion: [Headline for Canva — short, benefit-driven, matches pin content]
 
 Pinterest Pin 2 — 2:3 portrait, 1000x1500px (Gemini Flash Lite)
-[Prompt]
+Image prompt: [Prompt]
+Text overlay suggestion: [Headline]
 
 Pinterest Pin 3 — 2:3 portrait, 1000x1500px (Gemini Flash Lite)
-[Prompt]
+Image prompt: [Prompt]
+Text overlay suggestion: [Headline]
 
 ---
 
