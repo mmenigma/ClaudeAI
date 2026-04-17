@@ -13,6 +13,8 @@ Before any work begins, read the following reference files in full:
 **For Cannademy posts only — also read:**
 3. **Post-specific refresh plan:** https://raw.githubusercontent.com/mmenigma/ClaudeAI/main/cannademy/cannademy-aeo-refresh-plan.md
    - Do NOT read the entire file. Locate the specific post being worked on by URL slug or title and read only that entry.
+   
+   - Note: The post URL is in cannademy-aeo-refresh-plan.md for each post entry. Pull it from there and include it in the document header.
 
 Then confirm the following is in the conversation:
 - **The existing blog post** — pasted in full or provided as a URL
@@ -92,6 +94,16 @@ Use **Claude Opus 4.7** for all writing in this step.
 
 The delivered document has two clearly separated sections:
 
+The document header (top of file, above Section A) must include:
+- Post number and title
+- Post URL (from cannademy-aeo-refresh-plan.md)
+- Site name and draft date
+
+Example:
+Post 8 — Long-Term Cannabis Benefits
+https://www.cannademy.com/long-term-cannabis-benefits/
+AEO Blog Refresh — Cannademy.com | Draft April 2026
+
 **SECTION A — REVIEW NOTES (Do Not Paste Into Page Builder)**
 
 Include here, in this order:
@@ -145,7 +157,7 @@ When you eat an edible, your liver converts THC into a stronger compound — whi
 - Related Posts belong at the bottom
 - Sign-off matches content type (see brand-voice.md Sign-Offs)
 - No paragraph longer than 4 lines anywhere in the post
-
+- Output format: Always deliver as .docx. Never deliver as .md. The .docx format is required for color coding in Section A to render correctly.
 ---
 
 ## Step 5 — Image Prompts for Gemini
