@@ -18,10 +18,10 @@
 - [x] Full .md file kit created and uploaded to Cowork project folder ✅
 - [x] 90-day marketing plan finalized (updated for HeyGen + platform realities) ✅
 - [ ] Email 9 DMC waitlist subscribers — notify course is live, link to DMC sales page
-- [ ] Run email verification on ~6,378 raw contacts (expect ~10% dropoff → ~5,740 deliverable)
-- [ ] Segment verified list into: calculator owners (~1,370) vs freebie only (~4,370)
-- [ ] Draft 3-email reactivation campaign — IN PROGRESS (see CAMPAIGNS.md)
-- [ ] Load reactivation emails into CCM and schedule
+- [x] Run email verification on ~6,378 raw contacts (expect ~10% dropoff → ~5,740 deliverable)
+- [x] Segment verified list into: calculator owners (~1,370) vs freebie only (~4,370)
+- [x] Draft 3-email reactivation campaign — IN PROGRESS (see CAMPAIGNS.md)
+- [x] Load reactivation emails into CCM and schedule
 - [ ] Upgrade recipe CTA blocks on top 20 cannabischeri.com recipes
 - [ ] Orient in CCM Social Planner — schedule first post batch
 - [ ] Write first 2 HeyGen YouTube video scripts
@@ -134,7 +134,7 @@ Each H2 gets a 2-3 sentence direct answer prepended ABOVE Cheri's existing conte
 | 6 | Edibles Dosage Calculator | ✅ Done | post6-edibles-dosage-calculator-revised.docx |
 | 7 | DIY Cannabis Cookbook | ✅ Done | post7-diy-cannabis-cookbook-revised.docx |
 | 8 | Long Term Cannabis Benefits | ✅ Done | post8-long-term-cannabis-benefits-revised.docx |
-| 9 | Who Can/Cannot Benefit from Topical Cannabis | ⬜ Next | — |
+| 9 | Who Can/Cannot Benefit from Topical Cannabis | | ✅ Done | — |
 | 10 | Online Cannabis Education vs. Cannabis Universities | ✅ Done | post10-complete.docx |
 | 11 | Cannabis Topicals Won't Get You High — And Other Myths Worth Busting | ✅ Done | Post-11-Cannabis-Topicals-Myth-Busting-Refresh.docx |
 | 10–15 | Tier 3 posts | ⬜ Do last | — |
