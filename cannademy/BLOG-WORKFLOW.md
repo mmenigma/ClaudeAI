@@ -1,154 +1,255 @@
 # BLOG-WORKFLOW.md — AEO Blog Post Refresh Process
-*Read this before starting any blog post refresh. Follow every step in order.*
+*Read this before starting any blog post refresh. Follow every step in order. Do not skip steps or combine them.*
+
+---
+
+## Session Start — What to Provide
+
+Before any work begins, confirm the following are in the conversation:
+
+1. **The existing blog post** — paste the full text or URL
+2. **The AEO refresh plan** — upload `cannademy-aeo-refresh-plan.md.pdf` as an attachment
+3. **Brand voice reference** — `brand-voice.md` is at https://github.com/mmenigma/ClaudeAI/blob/main/brand-voice.md. Read it before writing a single word.
+
+Do not proceed if any of these are missing. Ask for them first.
 
 ---
 
 ## The Non-Negotiable Rule
-Do the analytical work BEFORE writing. Jumping straight to writing without mapping the existing content first causes redundancies, structural problems, misplaced content, and tone issues that cost more time to fix than they saved by skipping the analysis.
+
+Do the analytical work BEFORE writing. Every approval gate below is mandatory. Do not combine steps or move to the next step without explicit confirmation.
 
 ---
 
-## Step 1 — Pre-Write Analysis (do this first, every time) IMPORTANT!
+## Step 1 — Pre-Write Analysis
 
-Read the existing post in full and produce a written map covering:
+Read the existing post in full. Produce a written map covering:
 
 - **Keep as-is:** Content that is accurate, well-written, and in the right place
-- **Redundant:** Any sentence or paragraph that repeats an idea already stated nearby
+- **Redundant:** Any sentence or paragraph that repeats a nearby idea
 - **Misplaced:** Content that belongs in a different section
 - **Missing:** Topics the AEO plan calls for that aren't in the existing post
-- **Tone flags:** Any passage that reads dry, academic, or unlike Cheri
+- **Tone flags:** Any passage that reads dry, academic, or unlike Cheri (see brand-voice.md)
+- **Dead links:** Flag every broken or Teachable-era URL with ⚠️
 
-Deliver this map before writing anything. Do not skip this step.
+**→ STOP. Deliver this map. Do not proceed to Step 2 until Mitch confirms.**
 
 ---
 
-## Step 2 — Propose and Confirm the H2 Structure
+## Step 2 — Propose the H2 Structure
 
 List every proposed H2 with one sentence describing what that section covers.
 
 Check for:
 - Overlap between adjacent sections (if two H2s cover the same idea, merge them)
 - Logical flow (does each section build on the previous one?)
-- Correct number of points (5 is the SEO sweet spot for list-format posts; always odd numbers)
-- Does the structure match what the AEO plan specifies?
+- Correct count (5 is the SEO sweet spot for list-format posts; always odd numbers)
+- Alignment with what the AEO plan specifies for this post
 
-Do not write the draft until the H2 structure is confirmed. IMPORTANT!
+**→ STOP. Deliver the proposed H2 list. Do not write the draft until Mitch confirms the structure.**
 
 ---
 
-## Step 3 — Write the Draft - Write as a cut and paste ready word doc for the thrive page builder.
+## Step 3 — Change Summary for Approval
 
-### Color coding (mandatory)
+Before writing a single word of draft, deliver a complete plain-English summary of every change planned:
+
+- What is being removed and why
+- What is being added and why
+- Which sections are being restructured
+- Any links being replaced or flagged
+- Any pricing references that need verification against brand-voice.md
+
+This is Mitch's last review point before the draft is written. Be specific — "tightening the intro" is not sufficient. State exactly what changes.
+
+**→ STOP. Deliver the change summary. Do not write the draft until Mitch confirms.**
+
+---
+
+## Step 4 — Write the Draft
+
+### Document Layout
+
+The delivered document has two clearly separated sections:
+
+---
+
+**SECTION A — REVIEW NOTES (Do Not Paste Into Page Builder)**
+
+Include here:
+- Color key (see below)
+- All dead link flags with ⚠️ and suggested replacements
+- Editor notes explaining structural decisions
+- Any questions or decisions that need Mitch's input
+- Publishing checklist (see bottom of this document)
+
+---
+
+**SECTION B — CONTENT BLOCK (Paste-Ready)**
+
+Plain text only. No labels, annotations, color codes, or editor notes anywhere inside this block. The entire block from the first word of the title to the last word of the sign-off should be ready to copy directly into the page builder without any cleanup.
+
+---
+
+### Color Coding (Section A reference only — never inside Section B)
+
 - **BLACK** = Cheri's existing content, kept or lightly polished
 - **BLUE** = New AEO additions (answer-first paragraphs, FAQ, new sections)
-- **GRAY ITALIC** = Editor notes explaining changes, dead links, or decisions
+- **GRAY ITALIC** = Structural notes (Section A only)
 
-### Every H2 section must include
-1. A 2-3 sentence blue AEO answer-first paragraph immediately after the H2 — this is what AI engines scrape
+---
+
+### AEO Answer-First Paragraph — Required Format
+
+Every H2 section must open with an AEO answer-first paragraph immediately after the heading. This is what AI engines scrape. Follow this format exactly:
+
+**What it is:**
+2–3 sentences that directly answer the implied question in the H2. Opens with the answer, not a setup. No "In this section..." or "There are many ways to..." openers.
+
+**Voice:**
+Plain language. Cheri's warmth. No clinical terms unless immediately defined in plain language.
+
+**Format:**
+```
+[H2 Heading]
+
+Direct answer sentence in plain language. One more sentence expanding the key point. Optional third sentence only if it adds new information, not restatement.
+
+[Cheri's existing content continues below]
+```
+
+**Example:**
+```
+## Why Edibles Hit Differently Than Smoked Cannabis
+
+When you eat an edible, your liver converts THC into a stronger compound — which is why the effects hit harder, take longer to kick in, and last significantly longer than smoking. Most people are caught off guard the first time, and that's completely normal.
+
+[Cheri's existing content on edibles effects follows here...]
+```
+
+---
+
+### Every H2 Section Must Include
+
+1. AEO answer-first paragraph (2–3 sentences, format above)
 2. Cheri's existing content below that, with redundant sentences removed
-3. A human moment before any technical explanation (see Voice Rules below)
+3. A human moment before any technical explanation (see brand-voice.md — Warmth Before Technical Content)
 
-### Structural rules
+### Structural Rules
+
 - Closing/wrap-up sentences belong AFTER the last point, not inside any individual section
 - CTAs belong at the end of the post and in the "Ready to Go Deeper?" section — not scattered through body copy unless they exist in Cheri's original
 - FAQ belongs after all body content, before Related Posts
 - Related Posts belong at the bottom
+- Sign-off matches content type (see brand-voice.md — Sign-Offs)
 
 ---
 
-## Step 4 — Voice Rules (apply to every sentence written as Cheri)
+## Step 5 — Image Prompts for Gemini
 
-Cheri's voice is warm, direct, and teaching-focused. Before submitting any draft, check every new paragraph against these:
+After the draft is complete, generate image prompts for Gemini. These go in Section A (review notes) — not in the paste-ready content block.
 
-**Warmth before technical content**
-Never open a technical explanation cold. Acknowledge it's a bit science-y first.
-- ✅ "This next part gets a bit technical, but stay with me."
-- ✅ "Here's a fun one worth knowing..."
-- ❌ Opening directly with compound names, chemical processes, or clinical language
+### Model guidance
+- **Gemini 3.1 Pro** — use for featured/hero images (higher quality, slower)
+- **Gemini 3.1 Flash Lite** — use for in-post images and Pinterest pins (faster, lower cost)
 
-**One point per paragraph, then stop**
-If a paragraph makes its point in two sentences, stop at two sentences. Do not over-explain.
-- ✅ "Some people's livers convert THC efficiently; others don't — which is why the same edible can overwhelm one person and barely affect another. If edibles consistently feel too weak, even at higher doses, this is the most likely cause."
-- ❌ Adding two more sentences restating the same idea in different words
+### Style baseline for all prompts
+Professional cannabis food photography. Warm natural lighting. Appetizing and inviting. No text overlaid. No people. No cannabis leaves, plants, or raw flower — focus on finished food and drink products only. No drug paraphernalia.
 
-**Direct, never condescending**
-State facts plainly. When something won't work, say so and move on. Never soften a hard truth to the point where it loses meaning.
+### Required outputs per post
 
-**Validates the reader**
-- ✅ "No worries." / "You're not alone." / "I've seen this happen to thousands of students."
-- ❌ Assuming the reader already knows why they're struggling
+```
+## IMAGE PROMPTS — Gemini Generation
 
-**Short punchy sentences after longer explanatory ones**
-Use rhythm. A long explanatory sentence followed by a short declarative one creates emphasis.
-- ✅ "...which is why edibles hit harder, take longer to kick in, and last significantly longer than smoked cannabis. They're a fundamentally different experience."
+**Featured Image — 16:9 landscape (Gemini Pro)**
+[Prompt]
 
-**Parenthetical warmth**
-Cheri uses parenthetical asides to create intimacy with the reader.
-- ✅ "(we know because our students tell us this all the time)"
-- ✅ "(watch out for portion control and dosing!)"
+**In-Post Image 1 — tied to [Section Name] — 4:3 (Gemini Flash Lite)**
+[Prompt]
 
-**Warmth before technical content — but in plain language**
-Never open a technical explanation cold. Acknowledge the shift first — but the warmth beat itself must be in everyday language, not a throwaway phrase like "stay with me, this gets science-y." That phrasing telegraphs a tone shift without actually softening it. Instead, frame what's coming in plain terms the reader already understands.
+**In-Post Image 2 — tied to [Section Name] — 4:3 (Gemini Flash Lite)**
+[Prompt]
 
-- ✅ "Here's what's actually going on in your body when you eat an edible..."
-- ✅ "The reason this happens comes down to one thing your liver does..."
-- ✅ "There's a fun one worth knowing here..."
-- ❌ "This next part gets a bit technical, but stay with me" (telegraphs without softening)
-- ❌ Opening directly with compound names or clinical processes
+**Pinterest Pin 1 — 2:3 portrait, 1000x1500px (Gemini Flash Lite)**
+[Prompt]
 
-The warmth beat and the layman-first language rule work together: if the warmth beat itself uses clinical language, it's not actually warmth. Plain first, technical only when the technical term is earning its place.
+**Pinterest Pin 2 — 2:3 portrait, 1000x1500px (Gemini Flash Lite)**
+[Prompt]
+
+**Pinterest Pin 3 — 2:3 portrait, 1000x1500px (Gemini Flash Lite)**
+[Prompt]
+```
+
+Each prompt should specify: subject, food styling details, lighting, mood, background, aspect ratio, and end with "no text, no people, no cannabis plants."
 
 ---
 
-## Step 5 — Pre-Delivery Checklist
+## Step 6 — Pre-Delivery Self-Check
 
-Read the complete draft top to bottom as a reader — not a writer — before delivering. Check every item:
+Read the complete draft top to bottom as a reader — not a writer — before delivering. Check every item. Do not deliver until all boxes are confirmed.
 
 **Content**
+- [ ] Every H2 opens with a 2–3 sentence AEO answer-first paragraph in Cheri's voice
 - [ ] No redundant sentences between adjacent paragraphs
 - [ ] No two H2 sections covering the same idea
 - [ ] Closing/wrap-up statements are after the last point, not inside a section
 - [ ] All content from the AEO plan has been incorporated
-- [ ] Mango/myrcene tip included where fat absorption is discussed (edibles effectiveness posts)
+- [ ] Mango/myrcene tip included where fat absorption is discussed (edibles posts)
 
 **Links**
-- [ ] All Teachable URLs replaced with cannademy.com equivalents or flagged as [PLACEHOLDER]
-- [ ] All internal links checked against known live URLs
-- [ ] Dead links clearly flagged with ⚠️ at the top of the document
+- [ ] All Teachable URLs replaced with cannademy.com equivalents or flagged ⚠️
+- [ ] All dead links flagged in Section A — not inline in the content block
+- [ ] No Google Drive links anywhere in the document
 
 **Voice**
 - [ ] No dry, textbook-style openings to technical sections
 - [ ] No over-explained paragraphs (make the point, stop)
-- [ ] Reads like Cheri, not like a Wikipedia editor
+- [ ] Reads like Cheri — not a Wikipedia editor or AI assistant
+- [ ] All cannabis terminology follows brand-voice.md rules (THCa → THC, not "activates")
 
-**Structure**
-- [ ] Rank Math snippet block at top (SEO Title, Meta Description, Focus Keyword)
-- [ ] Byline note: "By Cheri Sicard, Cannabis Author & Educator"
-- [ ] "Updated April 2026" badge noted
-- [ ] FAQ schema reminder included
-- [ ] Publishing checklist at bottom of document
-
-**Pricing (verify against PRODUCTS.md before every post)**
+**Pricing — verify against brand-voice.md before every post**
 - Free Dosing Class: $0
-- Dosing Calculators: $5
-- Dosing Master Course (DMC): $59
+- Dosing Calculator: $5
+- Cannabis Dosing Mastery (DMC): $59 (NOT $39)
 - Cannabis Cooking for Home Cooks (CCHC): $89 funnel / $149 full price
-- Ultimate Gummy Guide: TBD
+- Cannabis Gummies Course: $59
 - DIY Cannabis Topicals & Skincare: TBD
+
+**Document layout**
+- [ ] Section A contains all notes, flags, color key, and image prompts
+- [ ] Section B is clean — no annotations anywhere inside the content block
+- [ ] Rank Math snippet block at top of Section A (SEO Title, Meta Description, Focus Keyword)
+- [ ] Byline in content: "By Cheri Sicard, Cannabis Author & Educator"
+- [ ] "Updated [Month Year]" badge noted
+- [ ] FAQ schema reminder in Section A
+- [ ] Image prompts complete in Section A
 
 ---
 
-## Known Issues to Never Repeat
+## Publishing Checklist (Section A — included with every delivery)
 
-See ERRORS.md for full details. Summary of blog-specific errors:
+- [ ] Rank Math: SEO title, meta description, focus keyword set
+- [ ] Featured image uploaded and alt text written
+- [ ] FAQ schema block added
+- [ ] All internal links verified as live
+- [ ] "Updated [Month Year]" badge applied
+- [ ] Post scheduled or published
+
+---
+
+## Known Errors — Never Repeat
+
+See ERRORS.md for full details.
 
 - **Never link to Google Drive** — check all hyperlinks before delivering
-- **Never duplicate a sentence** — if new AEO content makes an existing sentence redundant, remove the existing sentence with an editor note explaining why
-- **Never write 3/4 in a 5-point post that cover the same idea** — map the H2s first
-- **Cannabis Dosing Mastery is $59** — sales page copy documents had this wrong at $39; always verify against PRODUCTS.md
-- **THCa → THC, CBDa → CBD** — always use precise conversion language, never "activates THC"
-- **Decarboxylation** converts THCa and CBDa — do not describe it as simply "activating" cannabis
+- **Never duplicate a sentence** — if new AEO content makes an existing sentence redundant, remove the existing sentence and note it in Section A
+- **Never write 3 of 5 points covering the same idea** — map the H2s in Step 2
+- **Cannabis Dosing Mastery is $59** — earlier docs had this wrong at $39
+- **THCa → THC, CBDa → CBD** — use precise conversion language always
+- **Decarboxylation** converts THCa and CBDa — never describe it as "activating" cannabis
+- **Never recommend Ardent products** — affiliate program has deteriorated
 
 ---
 
 *Document prepared for Cannademy.com | AEO Blog Refresh Workflow*
+*Voice rules → brand-voice.md | Product pricing → brand-voice.md | Error history → ERRORS.md*
