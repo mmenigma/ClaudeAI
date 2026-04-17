@@ -7,11 +7,11 @@
 
 Before any work begins, read the following reference files in full:
 
-1. **Brand voice:** https://github.com/mmenigma/ClaudeAI/blob/main/brand-voice.md
-2. **SEO/AEO standards:** https://github.com/mmenigma/ClaudeAI/blob/main/seo-aeo-standards.md
+1. **Brand voice:** https://github.com/mmenigma/ClaudeAI/main/brand-voice.md
+2. **SEO/AEO standards:** https://github.com/mmenigma/ClaudeAI/main/seo-aeo-standards.md
 
 **For Cannademy posts only — also read:**
-3. **Post-specific refresh plan:** https://github.com/mmenigma/ClaudeAI/blob/main/cannademy/cannademy-aeo-refresh-plan.md
+3. **Post-specific refresh plan:** https://github.com/mmenigma/ClaudeAI/main/cannademy/cannademy-aeo-refresh-plan.md
    - Do NOT read the entire file. Locate the specific post being worked on by URL slug or title and read only that entry.
 
 Then confirm the following is in the conversation:
