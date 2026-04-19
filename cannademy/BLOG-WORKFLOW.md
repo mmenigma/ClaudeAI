@@ -170,39 +170,95 @@ Applies to both Cannademy.com and cannabischeri.com posts.
 - Gemini 3.1 Pro — featured/hero images (higher quality)
 - Gemini 3.1 Flash Lite — in-post images and Pinterest pins (faster, lower cost)
 
-### Style baseline for all prompts
-Professional cannabis food photography. Warm natural lighting. Appetizing and inviting. When appropriate can include people, cannabis leaves, cannabis plants, or raw cannabis flower. 
+### Cannabis content rule
+People, cannabis leaves, cannabis plants, and raw cannabis flower may be
+included when they strengthen the image concept. Finished food and
+wellness products are always acceptable. No drug paraphernalia.
+
+### Style palette — assign a DIFFERENT style to each image in the post
+Do not repeat the same style twice within a single post. Track which
+styles have been used in recent posts and avoid repeating across
+consecutive posts.
+
+| Style | Lighting | Mood |
+|---|---|---|
+| Warm golden hour | Soft directional side light, amber tones | Cozy, homey, abundant |
+| Cool bright studio | Diffused overhead daylight, crisp neutral shadows | Clean, modern, editorial |
+| Moody dark | Dramatic single-source side light, deep shadows | Sophisticated, artisan |
+| Airy minimal | Pale even light, minimal props, lots of negative space | Calm, spa-like, serene |
+| Rustic farmhouse | Soft natural window light, textured surfaces | Approachable, handmade, wholesome |
+| Modern clean | Bright overhead, geometric arrangements, graphic shadows | Precise, contemporary |
+| Cozy evening | Warm lamp or candlelight glow, soft shadow | Intimate, relaxed, personal |
+| Bright outdoor | Natural open shade or dappled sunlight | Fresh, energetic, lifestyle |
+
+### Surface and background palette — vary across images
+Never use the same surface in two images within the same post.
+
+**Light surfaces:** white marble, pale limestone, light ash wood,
+parchment paper, cream linen, white ceramic tile, bleached oak
+
+**Mid-tone surfaces:** butcher block, natural pine, terracotta tile,
+sage linen, unbleached cotton, warm concrete
+
+**Dark surfaces:** dark walnut, slate, charcoal concrete, black granite,
+deep espresso wood, aged cast iron
+
+**Textile/soft surfaces:** folded linen towel, knit throw, raw cotton
+cloth, woven rattan tray, weathered burlap
 
 ### Pinterest pins — important notes
-- Pinterest pins are posted to Pinterest only — they are NOT embedded in the blog post
-- Pinterest performs best with text overlaid on the image — leave clean space at top or bottom for text
-- Space pin uploads out over days or weeks via CCM — do not upload all three at once
+- Pinterest pins are posted to Pinterest only — they are NOT embedded
+  in the blog post
+- Pinterest performs best with text overlaid on the image — leave clean
+  space at top or bottom for text
+- Space pin uploads out over days or weeks via CCM — do not upload all
+  three at once
 - Each pin links back to the blog post URL
 
 ### Required output format
 
 IMAGE PROMPTS — Gemini Generation
 
+*Style used: [list style name assigned to each image — no repeats
+within post]*
+
 Featured Image — 16:9 landscape (Gemini 3.1 Pro)
-[Prompt — include: subject, food styling details, lighting, mood, background, aspect ratio.
+Style: [style name from palette]
+Surface/background: [surface from palette]
+[Prompt — include: subject, food styling details, specific lighting
+from chosen style, mood, surface/background detail, aspect ratio,
+"no text, no drug paraphernalia"]
 
 In-Post Image 1 — tied to [Section Name] — 4:3 (Gemini Flash Lite)
+Style: [style name — must differ from featured image]
+Surface/background: [surface — must differ from featured image]
+[Prompt — "no text, no drug paraphernalia"]
 
 In-Post Image 2 — tied to [Section Name] — 4:3 (Gemini Flash Lite)
+Style: [style name — must differ from images above]
+Surface/background: [surface — must differ from images above]
+[Prompt — "no text, no drug paraphernalia"]
 
 Pinterest Pin 1 — 2:3 portrait, 1000x1500px (Gemini Flash Lite)
-Image prompt: [Prompt — include: subject, food styling, lighting, "leave clean space at top or bottom for text overlay
-
-Text overlay suggestion: [Headline for Canva — short, benefit-driven, matches pin content]
+Style: [style name]
+Surface/background: [surface]
+Image prompt: [Prompt — include: subject, food styling, lighting from
+chosen style, "leave clean space at top or bottom for text overlay,
+no text, no drug paraphernalia"]
+Text overlay suggestion: [Headline for Canva — short, benefit-driven,
+matches pin content]
 
 Pinterest Pin 2 — 2:3 portrait, 1000x1500px (Gemini Flash Lite)
+Style: [style name — must differ from Pin 1]
+Surface/background: [surface — must differ from Pin 1]
 Image prompt: [Prompt]
 Text overlay suggestion: [Headline]
 
 Pinterest Pin 3 — 2:3 portrait, 1000x1500px (Gemini Flash Lite)
+Style: [style name — must differ from Pins 1 and 2]
+Surface/background: [surface — must differ from Pins 1 and 2]
 Image prompt: [Prompt]
 Text overlay suggestion: [Headline]
-
 ---
 
 ## Step 6 — Pre-Delivery Self-Check
