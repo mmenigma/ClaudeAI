@@ -171,7 +171,7 @@ Applies to both Cannademy.com and cannabischeri.com posts.
 - Gemini 3.1 Flash Lite — in-post images and Pinterest pins (faster, lower cost)
 
 ### Style baseline for all prompts
-Professional cannabis food photography. Warm natural lighting. Appetizing and inviting. No people. No cannabis leaves, plants, or raw flower — finished food and drink products only. No drug paraphernalia.
+Professional cannabis food photography. Warm natural lighting. Appetizing and inviting. When appropriate can include people, cannabis leaves, cannabis plants, or raw cannabis flower. 
 
 ### Pinterest pins — important notes
 - Pinterest pins are posted to Pinterest only — they are NOT embedded in the blog post
@@ -184,16 +184,15 @@ Professional cannabis food photography. Warm natural lighting. Appetizing and in
 IMAGE PROMPTS — Gemini Generation
 
 Featured Image — 16:9 landscape (Gemini 3.1 Pro)
-[Prompt — include: subject, food styling details, lighting, mood, background, aspect ratio, "no text, no people, no cannabis plants"]
+[Prompt — include: subject, food styling details, lighting, mood, background, aspect ratio.
 
 In-Post Image 1 — tied to [Section Name] — 4:3 (Gemini Flash Lite)
-[Prompt — "no text, no people, no cannabis plants"]
 
 In-Post Image 2 — tied to [Section Name] — 4:3 (Gemini Flash Lite)
-[Prompt — "no text, no people, no cannabis plants"]
 
 Pinterest Pin 1 — 2:3 portrait, 1000x1500px (Gemini Flash Lite)
-Image prompt: [Prompt — include: subject, food styling, lighting, "leave clean space at top or bottom for text overlay, no people, no cannabis plants"]
+Image prompt: [Prompt — include: subject, food styling, lighting, "leave clean space at top or bottom for text overlay
+
 Text overlay suggestion: [Headline for Canva — short, benefit-driven, matches pin content]
 
 Pinterest Pin 2 — 2:3 portrait, 1000x1500px (Gemini Flash Lite)
