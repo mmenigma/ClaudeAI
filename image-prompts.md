@@ -37,6 +37,9 @@ Aim for a kitchen, or table setting scene, not a product shot
 gummy worms, gummy cannabis leaves, gummies shapes, brownies of diffrent varieties-not just chocolate, cookies, rice crispy treats, pasta, sauces, soups, salad dressings, hot beverages, pizza
 No more than one brownie image per post, and avoid brownies entirely when other foods are equally relevant to the topic
 
+## On infusion
+When ever depicting the actual infusion or topical it needs to have a green or light green tint so it's known to be infused with cannabis.
+
 ---
 
 ## Style Palette — Assign a DIFFERENT Style to Each Image in the Post
