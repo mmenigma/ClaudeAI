@@ -38,7 +38,7 @@ gummy worms, gummy cannabis leaves, gummies shapes, brownies of diffrent varieti
 No more than one brownie image per post, and avoid brownies entirely when other foods are equally relevant to the topic
 
 ## On infusions:
-When ever depicting the actual infusion or topical it needs to have a green or light green tint so it's known to be infused with cannabis.
+Whenever depicting the actual infusion or topical it needs to have a green or light green tint so it's known to be infused with cannabis.
 
 ---
 
