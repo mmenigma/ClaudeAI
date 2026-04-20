@@ -122,29 +122,31 @@ Surface/background: [surface — must differ from images above]
 Pinterest Pin 1 — 2:3 portrait, 1000px x 1500px (Gemini Flash Lite)
 Style: [style name]
 Surface/background: [surface]
+
 Image prompt: [Prompt — include: subject, food styling, lighting from chosen style,
 "leave clean space at top or bottom for text overlay, no text"]
 Text overlay: [Keyword-led headline — 6–10 words, written as a search query]
+
 Pin description: [150–300 characters, opens with primary keyword phrase, includes
 2–3 related keywords naturally, ends with soft CTA to Cannademy.com]
 
 Pinterest Pin 2 — 2:3 portrait, 1000px x 1500px (Gemini Flash Lite)
 Style: [style name — must differ from Pin 1]
 Surface/background: [surface — must differ from Pin 1]
-Image prompt: [Prompt]
-Text overlay: [Different keyword angle from Pin 1]
+
+Image prompt: [Prompt]Text overlay: [Different keyword angle from Pin 1]
+
 Pin description: [150–300 characters, different keyword angle from Pin 1]
 
 Pinterest Pin 3 — 2:3 portrait, 1000px x 1500px (Gemini Flash Lite)
 Style: [style name — must differ from Pins 1 and 2]
 Surface/background: [surface — must differ from Pins 1 and 2]
+
 Image prompt: [Prompt]
 Text overlay: [Different keyword angle from Pins 1 and 2]
+
 Pin description: [150–300 characters, different keyword angle from Pins 1 and 2]
 ```
-
----
-
 *Applies to Cannademy.com and cannabischeri.com*
 *Voice rules: brand-voice.md | SEO/AEO standards: seo-aeo-standards.md*
 *Blog post workflow: BLOG-WORKFLOW.md*
