@@ -27,6 +27,16 @@ All image prompts are placed in **Section A only** of the delivered post documen
 
 People, cannabis leaves, cannabis plants, and raw cannabis flower may be included when they strengthen the image concept. Finished food and wellness products are always acceptable.
 
+## On composition:
+
+Single-subject images leave too much dead space in the 1500px tall format — always compose with multiple elements (hero food + supporting items like jars, ingredients, utensils, garnishes, or a second food item) to fill the vertical space naturally
+Aim for a kitchen, or table setting scene, not a product shot
+
+## On food variety:
+
+gummy worms, gummy cannabis leaves, gummies shapes, brownies of diffrent varieties-not just chocolate, cookies, rice crispy treats, pasta, sauces, soups, salad dressings, hot beverages, pizza
+No more than one brownie image per post, and avoid brownies entirely when other foods are equally relevant to the topic
+
 ---
 
 ## Style Palette — Assign a DIFFERENT Style to Each Image in the Post
