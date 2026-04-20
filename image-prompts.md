@@ -25,7 +25,7 @@ All image prompts are placed in **Section A only** of the delivered post documen
 
 ## Cannabis Content Rule
 
-People, cannabis leaves, cannabis plants, and raw cannabis flower may be included when they strengthen the image concept. Finished food and wellness products are always acceptable. No drug paraphernalia.
+People, cannabis leaves, cannabis plants, and raw cannabis flower may be included when they strengthen the image concept. Finished food and wellness products are always acceptable.
 
 ---
 
@@ -107,35 +107,35 @@ Featured Image — 16:9 landscape (Gemini 3.1 Pro)
 Style: [style name from palette]
 Surface/background: [surface from palette]
 [Prompt — include: subject, food styling details, specific lighting from chosen style,
-mood, surface/background detail, aspect ratio, "no text, no drug paraphernalia"]
+mood, surface/background detail, aspect ratio, "no text"]
 
 In-Post Image 1 — tied to [Section Name] — 4:3 (Gemini Flash Lite)
 Style: [style name — must differ from featured image]
 Surface/background: [surface — must differ from featured image]
-[Prompt — "no text, no drug paraphernalia"]
+[Prompt — "no text"]
 
 In-Post Image 2 — tied to [Section Name] — 4:3 (Gemini Flash Lite)
 Style: [style name — must differ from images above]
 Surface/background: [surface — must differ from images above]
-[Prompt — "no text, no drug paraphernalia"]
+[Prompt — "no text"]
 
-Pinterest Pin 1 — 2:3 portrait, 1000x1500px (Gemini Flash Lite)
+Pinterest Pin 1 — 2:3 portrait, 1000px x 1500px (Gemini Flash Lite)
 Style: [style name]
 Surface/background: [surface]
 Image prompt: [Prompt — include: subject, food styling, lighting from chosen style,
-"leave clean space at top or bottom for text overlay, no text, no drug paraphernalia"]
+"leave clean space at top or bottom for text overlay, no text"]
 Text overlay: [Keyword-led headline — 6–10 words, written as a search query]
 Pin description: [150–300 characters, opens with primary keyword phrase, includes
 2–3 related keywords naturally, ends with soft CTA to Cannademy.com]
 
-Pinterest Pin 2 — 2:3 portrait, 1000x1500px (Gemini Flash Lite)
+Pinterest Pin 2 — 2:3 portrait, 1000px x 1500px (Gemini Flash Lite)
 Style: [style name — must differ from Pin 1]
 Surface/background: [surface — must differ from Pin 1]
 Image prompt: [Prompt]
 Text overlay: [Different keyword angle from Pin 1]
 Pin description: [150–300 characters, different keyword angle from Pin 1]
 
-Pinterest Pin 3 — 2:3 portrait, 1000x1500px (Gemini Flash Lite)
+Pinterest Pin 3 — 2:3 portrait, 1000px x 1500px (Gemini Flash Lite)
 Style: [style name — must differ from Pins 1 and 2]
 Surface/background: [surface — must differ from Pins 1 and 2]
 Image prompt: [Prompt]
