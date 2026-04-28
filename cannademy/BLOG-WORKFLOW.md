@@ -180,9 +180,12 @@ Professional cannabis food photography. Warm natural lighting. Appetizing and in
 [Prompt]
 ```
 
-Each prompt should specify: subject, food styling details, lighting, mood, background, aspect ratio, and end with "no text, no people, no cannabis plants."
+Each prompt should specify: subject, food styling details, lighting, mood, background, aspect ratio, and end with "no text"
 
 ---
+Read the image prompt standards file before generating any images or Pinterest pins:
+https://raw.githubusercontent.com/mmenigma/ClaudeAI/refs/heads/main/image-prompts.md
+Generate all image prompts following the rules in that file. Place all prompts in Section A only — never in Section B.
 
 ## Step 6 — Pre-Delivery Self-Check
 
